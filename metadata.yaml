@@ -1,0 +1,27 @@
+_repo: Murder-by-the-clock_75500
+_version: 0.0.1
+creator:
+  author:
+    agent_name: King, Rufus
+    gutenberg_agent_id: '58028'
+    url: http://www.gutenberg.org/2009/agents/58028
+description: ''
+gutenberg_issued: '2025-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75500'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/101866355
+pgterms:marc905: 20250222081832king
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aGarden City, NY :$bDoubleday, Doran & Compnay, Inc., $c1928,
+  copyright 1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Murder by the clock
+url: http://www.gutenberg.org/ebooks/75500
